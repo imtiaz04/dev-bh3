@@ -4,4 +4,5 @@ ls -la
 git commit -m "message"
 git diff
 git log
-
+git status
+git add
