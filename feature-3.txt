@@ -1,5 +1,6 @@
 
-This is another new 2nd feature
+<<<<<<< HEAD
+
 
 This is feature from dev1 is fixed issue
 
@@ -7,3 +8,15 @@ dev2 added code
 
 multi line code added
 
+=======
+This is feature from dev1 is fixed issue
+
+
+
+
+dev2 added code
+
+
+
+multi line code added
+>>>>>>> dev
